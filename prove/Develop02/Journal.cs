@@ -53,3 +53,4 @@ public class Journal
         Console.WriteLine("Journal loaded.");
     }
 }
+/* Comment*/
